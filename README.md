@@ -55,11 +55,3 @@ Referência: [GitBook - Cloud Fundamentals por Felipe Aguiar](https://felipe-agu
 
 ### 🔗 Links úteis:
 - [Benefícios da Nuvem - Microsoft Learn](https://learn.microsoft.com/training/modules/describe-benefits-use-cloud-services/)
-
----
-
-
----
-
-## 📂 Estrutura do Repositório
-
