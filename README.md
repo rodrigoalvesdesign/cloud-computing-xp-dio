@@ -1,4 +1,4 @@
-# 🚀 Cloud Computing e Inteligência Artificial - XP Inc. | DIO
+# Cloud Computing e Inteligência Artificial - XP Inc. | DIO
 
 Repositório criado como parte do desafio proposto no bootcamp da DIO em parceria com a XP Inc. O objetivo é documentar os principais conceitos e aprendizados sobre **Computação em Nuvem**, baseando-se nas aulas teóricas, práticas e materiais de apoio oferecidos no curso.
 
